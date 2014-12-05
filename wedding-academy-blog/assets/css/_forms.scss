@@ -1,0 +1,85 @@
+  input.form-control, textarea { 
+  transition: all .5s ease-in
+  ;
+  box-shadow: none;
+}
+  
+  
+ input.form-control:focus, textarea:focus  { 
+ background: #1b1b1b;
+ color:#fff;
+ }
+ 
+
+ #mc_embed_signup { margin: 0 auto ; float: none; position: relative; width: 70%; overflow: hidden; text-align: center;}
+
+
+#mc_embed_signup input[type="email"].form-control , #mc_embed_signup input[type="text"].form-control {
+width: 49%;
+float: left;
+height: 48px;
+margin-right: 6px;
+}
+
+form-inline input[type="submit"].form-control {
+width: 30%;
+height: 49px;
+}
+
+
+.large-button, input[type="submit"]{
+color: #fff;
+border: none;
+background: #f0856a;
+font-family: 'freeway_gothicmedium', arial, helvetica, sans-serif;
+width: 100%;
+padding: 12px 12px;
+margin: 0 0;
+-webkit-transition-property: background;
+-webkit-transition-duration: .5s;
+-webkit-transition-timing-function: ease;
+-moz-transition-property: background;
+-moz-transition-duration: .5s;
+-moz-transition-timing-function: ease;
+font-size: 1.4em;
+text-transform: uppercase;
+border-radius: 0;
+}
+
+.large-button:hover,  input[type="submit"]:hover { 
+	background: #E23A11
+}
+
+.form-control, 
+.ginput_container input, 
+.ginput_container select, 
+.ginput_container textarea {
+font-family: 'latolight' , arial, helvetica, sans-serif;
+padding: 6px 12px;
+font-size: 16px;
+color: #000;
+background-color: #fff;
+border: 0;
+border-radius: 0;
+}
+
+
+
+#mc_embed_signup {
+background: transparent!Important
+}
+
+#mc_embed_signup input {
+border: none  !important;
+width: 49%;
+float: left
+}
+
+#mc-embedded-subscribe {
+margin: 0!Important;
+position: absolute!Important;
+width: 94px!Important;
+height: 94px!Important;
+bottom: 0;
+right: 0;
+}

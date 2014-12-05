@@ -1,0 +1,46 @@
+$images: "images";
+$primary-color: #f0856a;
+$secondary-color: #119589;
+$tertiary-color: rgb(45, 55, 105);
+$light-grey:#DFDFDF;
+
+$grey:#424242;
+%primary-font {
+font-family: 'latoregular', arial, helvetica, sans-serif;
+font-weight: normal;
+}
+
+%signature-font {
+font-family: 'alex_brushregular', arial, helvetica, sans-serif;
+font-weight: normal;
+}
+
+%heading-font {
+font-family: 'freeway_gothicmedium', arial, helvetica, sans-serif;
+font-weight: normal;
+}
+
+%transition{
+-webkit-transition: all -6s;
+-o-transition: all -6s;
+transition: all -6s;
+}
+
+%secondary-font {
+font-family: 'alternategothic2_btregular', arial, helvetica, sans-serif;
+font-weight: normal;
+text-transform: uppercase;
+}
+
+%breakout {
+font-family: 'lato', arial, helvetica, sans-serif;
+font-weight: normal;
+line-height: 1.5em;
+}
+
+%but-hover { 
+	background: darken($tertiary-color, 30%);
+}
+
+
+

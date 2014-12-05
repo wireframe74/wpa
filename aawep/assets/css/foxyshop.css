@@ -1,0 +1,19 @@
+#fc_checkout_container label.fc_pre, #fc_checkout_container span.fc_pre, #fc_receipt_container span.fc_pre {
+text-align: left;
+width: 100%;
+margin: 0 0 10px;
+}
+
+#fc_checkout_container input.fc_text {
+width: 80%;
+padding: 3px 6px;
+border: 0;
+background: #d6d6d6;
+}
+
+#fc_cart_container input.fc_cart_item_quantity {
+width: 2.5em;
+padding: 9px 6px;
+border: none;
+font-size: 11px; background: #d6d6d6;
+}

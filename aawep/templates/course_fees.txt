@@ -1,0 +1,140 @@
+<?php 
+/* Template Name: COURSE FEES */
+include_once(get_template_directory().'/header2.php'); ?>
+
+		<main role="main" class="inner-shadow">
+		<!-- section -->
+		<section>
+		
+		<?php if (have_posts()): while (have_posts()) : the_post(); ?>
+		
+		
+		<div id="post-<?php the_ID(); ?>" <?php post_class('container-fluid reversed group lightbox-modal certificate-in-wedding-planning'); ?>	>
+		
+		<a class="close-btn text-hide">Close</a>
+		
+		
+		
+		<div class="container">
+		
+		<div class="row">
+		<h2>CERTIFICATE IN WEDDING PLANNING</h2>
+		<h3>Choose from one of 2 payment plans:</h3>
+		</div>
+		
+		<div class="row">
+		
+		<aside class="group col-md-4" >
+			<div class="payment-ctas">
+					
+					<h3>Full Payment Plan</h3>
+					<p>One off payment of <strong>£495</strong></p>
+					
+			</div><!--payment-ctas-->
+		</aside><!--span-->
+		
+			<aside class="group col-md-4">
+			<div class="payment-ctas">
+					
+					<h3>Full Payment Plan</h3>
+					<p>Pay a deposit of <strong>£140</strong> and
+					3 monthly payments of 
+					<strong>£140</strong> per month
+					</p>
+					
+			</div><!--payment-ctas-->
+		</aside><!--span-->
+		
+			<aside class="group col-md-4">
+			<div class="payment-ctas">
+					
+					<h3>Full Payment Plan</h3>
+					<p>Pay a deposit of <strong>£70</strong> and
+9 monthly payments of 
+<strong>£70</strong> per month
+				</p>	
+			</div><!--payment-ctas-->
+		</aside><!--span-->
+		
+		
+		
+		</div><!--row-->
+		
+		<div class="row"><button class="large-button center-block">ENROL ONLINE</button></div>
+		
+		
+		</div><!--container-->
+
+
+		</div><!--lightbox-modal-->
+		
+		
+			</div><!--container-fluid-->
+			
+				<div class="container">
+				  
+				  
+							<div class="row padding-vertical">
+							  
+							  
+			<aside class="group col-sm-4 col-md-4 col-lg-4">
+			
+				<h3 class="course-fees-widget">CERTIFICATE IN WEDDING PLANNING</h3>
+			
+				<section class="course-fees">
+				
+				<h4>Full <strong>£495</strong> <br>
+				4 Month Plan <strong>£140 per month</strong>
+				</h4>
+
+				<ul>
+				<li>E Learning</li>
+				<li>Certificate in Wedding Planning</li>
+				<li>Benchmarked at Level 3</li>
+				<li>250 Hours with up to 2 years to complete</li>
+				</ul>
+				
+				<button class="large-button payment-plans certificate-in-wedding-planning">PAYMENT PLANS</button>
+				
+				</section>
+			</aside><!--/span-->
+			
+			
+		
+							   
+							   
+							   
+			
+							   
+							   
+							   
+							   
+							
+							
+							</div><!--/row-->
+				  
+			   </div><!--/container-->
+		  
+		  
+</div><!--/container-fluid-->
+
+
+		
+		<?php endwhile; ?>
+		<?php else: ?>
+
+			<!-- article -->
+			<article>
+			<h2><?php _e( 'Sorry, nothing to display.', 'html5blank' ); ?></h2>
+			</article>
+			<!-- /article -->
+
+		<?php endif; ?>
+		
+		
+		</section>
+		</main>
+	
+
+
+<?php get_footer(); ?>

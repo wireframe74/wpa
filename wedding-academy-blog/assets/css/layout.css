@@ -1,0 +1,147 @@
+.main-header {
+  border-bottom: 1px solid #ddd;
+  margin: 0 0 6px;
+  padding-bottom: 10px;
+}
+
+.wrap-img {
+  height: 312px;
+  background: #EBEBEB;
+}
+
+.imgLiquid {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+}
+
+.navbar-nav > li > a {
+  font-family: 'freeway_gothicmedium';
+  font-weight: normal;
+  font-style: normal;
+  text-transform: uppercase;
+  color: black;
+}
+
+.medium-col-wrap {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+article > .medium-col {
+  text-align: left;
+}
+
+.medium-col {
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  margin: 0 auto;
+  background: #fff;
+  width: 60%;
+  padding: 5px 20px;
+}
+
+article.medium-col {
+  text-align: left;
+  margin: 40px auto;
+}
+
+article + .img-responsive {
+  margin: 0 auto;
+}
+
+.center-txt {
+  text-align: center;
+}
+
+.image-full-width {
+  width: 100%;
+  margin: 31px 0;
+}
+
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 541px;
+}
+
+#footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 541px;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+a img.alignnone {
+  float: left;
+}
+
+.bottom-footer {
+  border-bottom: 1px solid #f39d88;
+  padding: 30px 0;
+  margin-bottom: 16px;
+}
+
+/* ARTICLE LINKS */
+.listing {
+  min-height: 312px;
+  position: relative;
+  margin-bottom: 30px;
+  box-sizing: border-box;
+  background: none;
+}
+
+.listing img {
+  width: 100%;
+}
+
+.meta {
+  background: #fff;
+  bottom: 0;
+  width: 80%;
+  margin: 0 auto;
+}
+
+.padding-vertical {
+  padding-top: 40px;
+}
+
+.listing .medium-col-wrap {
+  margin-left: -15px;
+}
+
+.navigation {
+  border: 1px solid;
+  clear: both;
+  margin: 10px 0;
+}
+.navigation .alignright {
+  float: right;
+}
+
+.addthis_toolbox.addthis_default_style {
+  position: absolute;
+  right: 0;
+}
+
+#respond {
+  clear: both;
+  margin: 20px 0 0;
+  float: left;
+  border-top: 1px solid #ddd;
+  padding-top: 10px;
+  width: 100%;
+}

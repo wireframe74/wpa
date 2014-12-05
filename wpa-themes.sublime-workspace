@@ -1,0 +1,968 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"import",
+				"important"
+			],
+			[
+				"IM",
+				"important"
+			],
+			[
+				"post",
+				"post-thumbnail	post-thumbnail"
+			],
+			[
+				"pos",
+				"post-thumbnail	post-thumbnail"
+			],
+			[
+				"impo",
+				"important"
+			],
+			[
+				"prim",
+				"primary-color"
+			],
+			[
+				"template",
+				"template_directory"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"conte",
+				"contentHeight"
+			],
+			[
+				"side",
+				"sidebarHeight"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"style",
+				"stylesheet_directory"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"tr",
+				"transiton"
+			],
+			[
+				"pr",
+				"primary-color"
+			],
+			[
+				"wpQ",
+				"WP_Query"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"get_post_th",
+				"get_the_post_thumbnail"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"templa",
+				"template_directory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "wedding-academy-blog/assets/css/_layout.scss",
+			"settings":
+			{
+				"buffer_size": 2129,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "aawep/assets/css/_forms.scss",
+			"settings":
+			{
+				"buffer_size": 280,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "aawep/templates/aa-monthly-message.php",
+			"settings":
+			{
+				"buffer_size": 2575,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aawep/single-cat-ask-alison.php",
+			"settings":
+			{
+				"buffer_size": 2318,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "aawep/assets/css/custom.scss",
+			"settings":
+			{
+				"buffer_size": 100,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "aawep/assets/css/_yuck.scss",
+			"settings":
+			{
+				"buffer_size": 146520,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "aawep/assets/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 145838,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"pac",
+				"Package Control: Disable Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"synta",
+				"Set Syntax: Sass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: Sass"
+			],
+			[
+				"word",
+				"WordPress Codex: Search from Input"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:l",
+				"Set Syntax: LESS"
+			],
+			[
+				"syntax l",
+				"Set Syntax: LESS"
+			],
+			[
+				"synt",
+				"Set Syntax: Sass"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
+				"syntax:s",
+				"Set Syntax: Sass"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/wpa/wp-content/themes",
+		"/C/wamp/www/wpa/wp-content/themes/aawep",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/css"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/aawep/wp-content/themes/aawep/assets/css/_yuck.scss",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/foxyshop-single-product.php",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/category.php",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/archive.php",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/category.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/css/_yuck.scss",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/assets/css/custom-old.css",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/css/custom.css",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/assets/css/custom.css",
+		"/C/wamp/www/aawep/wp-content/themes/sftp-config-alt.json",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/functions.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/aa-google-hangouts.php",
+		"/C/wamp/www/aawep/wp-content/themes/sftp-config.json",
+		"/C/Users/ChrisJ/Desktop/functions.php",
+		"/C/wamp/www/aawep/wp-config.php",
+		"/C/wamp/www/love-this-school/wp-config.php",
+		"/C/wamp/www/nzawep/wp-content/themes/aawep/sftp-config.json",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/header.php",
+		"/C/Users/ChrisJ/Desktop/download/index.html",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/front-page.php",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/assets/css/main.scss",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/about-page-template.php",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/page.php",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/footer.php",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/assets/css/style.css",
+		"/C/wamp/www/portfolio/wp-content/themes/flex/header.php",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/assets/js/main.js",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/single.php",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/assets/css/main.css",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/functions.php",
+		"/C/wamp/www/portfolio/wp-content/themes/tdt/style.css",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/post-banner.php",
+		"/C/wamp/www/portfolio/wp-config.php",
+		"/C/wamp/www/nzawep/wp-config.php",
+		"/C/Users/ChrisJ/Desktop/temp.html",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/front-page.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/_globals.scss",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/_variables.scss",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/_buttons.scss",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/single.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/artists-listing.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/_modules.scss",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/functions.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/single-academy-tv.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/page-delegates-australian.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/footer.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/page-delegates-international.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/main.css",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/header.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/footer-blog.php",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/footer.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/blog.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/courses.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/templates/footer-blog.php",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/footer.php",
+		"/C/wamp/www/wpa/wp-content/themes/sftp-config.json",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/_fonts.scss",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/sftp-config.json",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/front-page-old.php",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/assets/css/fonts.scss",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/assets/css/custom.css",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/assets/css/_modules.scss",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/templates/header-blog.php",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/functions.php",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/header.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/templates/blog.php",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/assets/css/_responsive.scss",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/assets/css/custom.scss",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/assets/css/_layout.scss",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/assets/js/custom.js",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/assets/css/_layout.scss",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/slider.php",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/assets/css/_modules.scss",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/assets/css/_responsive.scss",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/slider.php",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/assets/css/cutsom.css",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/course-comparison.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/templates/course-comparison.php",
+		"/C/wamp/www/wei/wp-content/themes/aawep/foxyshop-single-product.php",
+		"/C/wamp/www/wei/wp-content/themes/aawep/templates/course-comparison.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/sftp-config.json",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/foxyshop-single-product.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/_home.scss",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/home.php",
+		"/C/wamp/www/flynn/header.php",
+		"/C/wamp/www/flynn/page.php",
+		"/C/Users/ChrisJ/Desktop/wp-content/themes/bootstrap/front-page.php",
+		"/C/Users/ChrisJ/Desktop/wp-content/themes/bootstrap/artists-listing.php",
+		"/C/Users/ChrisJ/Desktop/canvas-css/uk/k12_overrides.css",
+		"/C/Users/ChrisJ/Desktop/.htaccess",
+		"/C/Users/ChrisJ/Desktop/canvas-css/usa/script.js",
+		"/C/Users/ChrisJ/Desktop/canvas-css/nz/script.js",
+		"/C/Users/ChrisJ/Desktop/canvas-css/uk/script.js",
+		"/C/Users/ChrisJ/Desktop/canvas-css/au/script.js",
+		"/C/Users/ChrisJ/Desktop/canvas-css/main/k12_overrides.css",
+		"/C/Users/ChrisJ/Desktop/canvas-css/nz/k12_overrides.css",
+		"/C/Users/ChrisJ/Desktop/canvas-css/usa/k12_overrides.css",
+		"/C/Users/ChrisJ/Desktop/canvas-css/au/k12_overrides.css",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/css/_ask-alison.scss",
+		"/C/Users/ChrisJ/Desktop/flex.js",
+		"/C/wamp/www/wpa/wp-content/themes/wedding-academy-blog/post-banner.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/single-artists.php",
+		"/C/wamp/www/wei/wp-content/themes/aawep/functions.php",
+		"/C/wamp/www/wei/wp-content/themes/aawep/templates/aa-wei-tv.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/public_html/wp-content/themes/sandstorm/category-temp.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/public_html/wp-content/themes/sandstorm/single.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/public_html/wp-content/themes/sandstorm/page-news-test.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/public_html/wp-content/themes/sandstorm/style.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/public_html/wp-content/themes/sandstorm/functions.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/public_html/wp-content/themes/sandstorm/library/scripts/custom-script.js",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/public_html/wp-content/themes/sandstorm/sidebar.php",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/category-temp.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/public_html/wp-content/themes/thematic/category.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/PORTABLE APPS/sublime3-portable/Data/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/sftp-config.json",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/public_html/wp-content/themes/thematic/index.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/templates/aa-google-hangouts.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/aa-monthly-message.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/single-cat-ask-alison.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/aa-nav.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/wp-content/themes/sandstorm/page-shop.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/SANDSTORM/local-dev/wp-content/themes/sandstorm/style.css",
+		"/C/wamp/www/wei/wp-config.php",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/custom.scss",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/aawep/oct-10-14/assets/css/custom.scss",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/wei/assets/css/custom.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/aawep/oct-10-14/assets/css/fonts.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/aawep/oct-10-14/assets/css/base.css"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			".",
+			"css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			".container.content",
+			".contact",
+			".contact .",
+			".contact",
+			".container.content",
+			".video-trigger",
+			".contact-form-wrap .container",
+			"http",
+			"//",
+			".item",
+			"contain",
+			".box",
+			".item",
+			"section",
+			"jquer",
+			"25",
+			"js/",
+			"css/",
+			"uk-tv",
+			".widget-5 ",
+			"side",
+			"nav-bg",
+			".nav-bg",
+			"col-xs-6",
+			"website",
+			"col-xs-12 col-sm-6",
+			"description",
+			"col-xs-12",
+			"//",
+			";('url');",
+			"blogininfo",
+			"<?php bloginfo('url'); ?>",
+			"530px",
+			"slider",
+			".9",
+			"about",
+			" no-padding",
+			"no-p",
+			"listing  ",
+			"col-sm-6",
+			"no-padding",
+			"-15px",
+			"latest-news",
+			"business",
+			".8",
+			"768",
+			"first-c",
+			"repeater_field_name",
+			"$",
+			"'freeway_gothicmedium'",
+			"$",
+			"'freeway_gothicmedium'",
+			"$",
+			"'freeway_gothicmedium'",
+			"../uk/fonts/",
+			"thumbn",
+			"wei-tv",
+			"post_t",
+			"regis",
+			"tv",
+			"container-fluid",
+			"col-sm-6",
+			"register",
+			".paged",
+			"[ \\t]+\\n",
+			"section",
+			"aawep-",
+			"wei-",
+			"circus",
+			"celebration_product_name",
+			"ifram",
+			"Exc",
+			"exc",
+			"vide",
+			".css",
+			"<?php bloginfo('url' ); ?>/wp-content/themes/",
+			"plugins",
+			"<?php bloginfo('url' ); ?>/wp-content/",
+			"<a",
+			"</span></p>",
+			"<p><span>",
+			"wpmem_inc_sidebar",
+			"business",
+			"2463",
+			"wrap",
+			"sidebar",
+			"hashScript",
+			"h1",
+			"$",
+			"h3",
+			"-",
+			"ask-alison",
+			"overview",
+			"@me",
+			"”",
+			"\"\"",
+			"\"",
+			"“",
+			"hidden",
+			"discou",
+			"coupon",
+			"attr",
+			"remov",
+			"fonts/",
+			"{site_url}images/",
+			"	\n",
+			"{site_url}images/",
+			"../images/",
+			"fonts/",
+			"../images/",
+			"assets/",
+			"{site_ur}",
+			"{site_url}css/",
+			"{site_url}js",
+			"assets/",
+			"http://www.agilepeople.com.au/",
+			"@",
+			"<li>",
+			"li>",
+			"../images/",
+			"</a",
+			"</a>",
+			"CERTIFIED WEDDING",
+			"90",
+			"@",
+			"Special Offer for VOW ",
+			"Special Offer for VOW \nFinancial Members",
+			"australian P"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			".box",
+			"listing ",
+			"col-sm-6 listing ",
+			"",
+			"'freeway_gothicmedium', arial, sans-serif",
+			"jQuery",
+			"'freeway_gothicmedium', arial, sans-serif",
+			"col-xs-6",
+			".paged-nav",
+			"\\n",
+			"<?php bloginfo('url' ); ?>/aawep2014/wp-content/themes/",
+			"<?php bloginfo('url' ); ?>/aawep2014/wp-content/",
+			"{site_url}assets/fonts/",
+			"{site_url}assets/images/",
+			"{site_url}images/",
+			"http://www.thosedigitalthoughts.com/fonts/",
+			"{site_url}assets/images/",
+			"{site_url}",
+			"http://www.aawep.com.au/aawep2014/wp-content/themes/aawep/assets/images/",
+			"</a>{$impression_track}",
+			"Australian Property Finance Members",
+			"<?php bloginfo('url'); ?>/",
+			"jQuery",
+			"files/",
+			"jQuery",
+			"450",
+			"490",
+			"720",
+			"470",
+			"450",
+			"640",
+			"599",
+			"490",
+			"480",
+			"767",
+			"jQuery",
+			"",
+			"&nbsp;&nbsp|&nbsp;&nbsp",
+			"  |  ",
+			"14px",
+			"<a style=\"text-decoration:none;\"",
+			"style=\"color:#808080; text-decoration:none;",
+			"13px",
+			"../images/",
+			"#{$images}/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": false
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "wedding-academy-blog/assets/css/_layout.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								216,
+								216
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/sass-textmate-bundle-master/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "aawep/assets/css/_forms.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 280,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								209,
+								209
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/sass-textmate-bundle-master/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "aawep/templates/aa-monthly-message.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2575,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2356,
+								1705
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1419.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "aawep/single-cat-ask-alison.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2318,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2099,
+								2099
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 844.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "aawep/assets/css/custom.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 100,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								100,
+								100
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/sass-textmate-bundle-master/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "aawep/assets/css/_yuck.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 146520,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								71557,
+								71557
+							]
+						],
+						"settings":
+						{
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/sass-textmate-bundle-master/Syntaxes/Sass.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "aawep/assets/css/custom.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 145838,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"project": "wpa-themes.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"glob",
+				"css\\_globals.scss"
+			],
+			[
+				"fro",
+				"bootstrap\\front-page.php"
+			],
+			[
+				"ho",
+				"bootstrap\\home.php"
+			],
+			[
+				"fr",
+				"bootstrap\\front-page.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

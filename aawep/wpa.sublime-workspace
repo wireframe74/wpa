@@ -1,0 +1,704 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"prim",
+				"primary-color"
+			],
+			[
+				"template",
+				"template_directory"
+			],
+			[
+				"fade",
+				"fadeOut"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"m",
+				"middle"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"conte",
+				"contentHeight"
+			],
+			[
+				"side",
+				"sidebarHeight"
+			],
+			[
+				"block",
+				"blockquote"
+			],
+			[
+				"firs",
+				"first-child"
+			],
+			[
+				"style",
+				"stylesheet_directory"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"pos",
+				"pos:a	position:absolute"
+			],
+			[
+				"tr",
+				"transiton"
+			],
+			[
+				"pr",
+				"primary-color"
+			],
+			[
+				"wpQ",
+				"WP_Query"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"get_post_th",
+				"get_the_post_thumbnail"
+			],
+			[
+				"the_post",
+				"the_post_thumbnail"
+			],
+			[
+				"templa",
+				"template_directory"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "assets/css/custom.css",
+			"settings":
+			{
+				"buffer_size": 144110,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"fetc",
+				"Fetch: Package"
+			],
+			[
+				"fet",
+				"Fetch: Package"
+			],
+			[
+				"pack",
+				"Package Control: Enable Package"
+			],
+			[
+				"live",
+				"LiveReload: Self test"
+			],
+			[
+				"sass",
+				"Set Syntax: Sass"
+			],
+			[
+				"fetch",
+				"Fetch: Manage"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Convert Case: Upper Case"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"gist",
+				"Gist: Create Public Gist"
+			],
+			[
+				"gis",
+				"Gist: Open Gist"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"synta",
+				"Set Syntax: Sass"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"syn",
+				"Set Syntax: Sass"
+			],
+			[
+				"word",
+				"WordPress Codex: Search from Input"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"syntax:l",
+				"Set Syntax: LESS"
+			],
+			[
+				"syntax l",
+				"Set Syntax: LESS"
+			],
+			[
+				"synt",
+				"Set Syntax: Sass"
+			],
+			[
+				"syntax",
+				"Set Syntax: Sass"
+			],
+			[
+				"syntax:s",
+				"Set Syntax: Sass"
+			],
+			[
+				"pac",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/wpa/wp-content/themes/aawep",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/css"
+	],
+	"file_history":
+	[
+		"/C/wamp/www/wpa/wp-content/themes/aawep/footer.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/header.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/css/_ask-alison.scss",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/templates/aa-monthly-message.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/single-cat-ask-alison.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/css/_variables.scss",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/single-google-hangout.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/includes/page-headers/a-alison-page-header.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/js/custom.js",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/functions.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/css/custom.scss",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/assets/css/_yuck.scss",
+		"/C/wamp/www/wei/wp-config.php",
+		"/C/wamp/www/aawep/wp-content/themes/sftp-config.json",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/assets/css/custom.css",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/custom.scss",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/aawep/oct-10-14/assets/css/custom.scss",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/wei/assets/css/custom.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/aawep/oct-10-14/assets/css/fonts.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/aawep/oct-10-14/assets/css/base.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/aawep/oct-10-14/assets/css/datepicker.css",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/post-banner.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/slider.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/header-blog.php",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/header.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/blog.php",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/category.php",
+		"/C/wamp/www/aawep/wp-content/themes/aawep/templates/footer-blog.php",
+		"/C/wamp/www/aawep/wp-content/themes/au-blog/footer.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/sftp-config.json",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/AWME/local-dev/30-7-14/sftp-config.json",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/AWME/local-dev/30-7-14/wp-content/themes/bootstrap/footer.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/AWME/local-dev/30-7-14/footer.php",
+		"/C/wamp/www/agile-live-server/css/style2.scss",
+		"/C/wamp/www/agile-live-server/css/style-2.css",
+		"/C/wamp/www/agile-live-server/css/style2.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AGILE PEOPLE/local-dev/aug2014/sftp-config.json",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/HELLO TOES/mobile-theme/403.html",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/HELLO TOES/mobile-theme/Styles/default.css",
+		"/C/Users/ChrisJ/Desktop/links.html",
+		"/C/Users/ChrisJ/Desktop/save-the-bees.html",
+		"/C/Users/ChrisJ/Desktop/save-bees-old.html",
+		"/C/wamp/www/asa/wp-config.php",
+		"/C/Users/ChrisJ/Desktop/index.html",
+		"/C/wamp/www/asa/wp-content/themes/asa/header.php",
+		"/C/wamp/www/asa/wp-content/plugins/wp-members/wp-members.php",
+		"/C/wamp/www/wpa/wp-content/themes/aawep/sftp-config.json",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/wpa/29-7-14/sftp-config.json",
+		"/C/Users/ChrisJ/Desktop/stylesheet.css",
+		"/C/wamp/www/wei/wp-content/themes/aawep/includes/page-headers/a-alison-page-header.php",
+		"/C/wamp/www/wei/wp-content/themes/aawep/page.php",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/_fonts.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_advisory-board.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_home.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_headers.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_modules.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_product.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_forms.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_foxycart.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_media-queries.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/fonts.css",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_buttons.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_layout.scss",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/_product.scss",
+		"/C/wamp/www/awme-dev/wp-content/themes/bootstrap/css/main.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/main.css",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/layout.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_globals.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/base.css",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/offcanvas.css",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/custom.css",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_yuck.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/_reset.scss",
+		"/C/wamp/www/wei/wp-content/themes/aawep/assets/css/freewaygothic-webfont.ttf",
+		"/C/wamp/www/betheme/wp-content/themes/betheme/css/custom.css",
+		"/C/wamp/www/betheme/wp-content/themes/betheme/style.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/TDT/dev/folio.sublime-project",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/TDT/dev/test.html",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/PORTABLE APPS/sublime3-portable/Data/Packages/User/SFTP.sublime-settings",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/wei/sftp-config.json",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/wei/assets/js/custom.js",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/wei/functions.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/wei/foxyshop-single-product.php",
+		"/C/Users/ChrisJ/Desktop/logo.html",
+		"/C/wamp/www/agile-people/index-bootstrap-ee.html",
+		"/C/wamp/www/agile-people/assets/css/style2.css",
+		"/C/wamp/www/agile-people/assets/css/style.scss",
+		"/C/wamp/www/agile-people/assets/css/style.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/LTS/local/lts-cms/wp-content/themes/lts-theme/home.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/LTS/local/home.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/LTS/local/lts-cms/wp-content/themes/lts-theme/css/styles/stylesheet.css",
+		"/C/wamp/www/betheme/wp-content/themes/betheme/css/fonts/stylesheet.css",
+		"/C/Users/ChrisJ/AppData/Local/Temp/Rar$DRa0.825/stylesheet.css",
+		"/C/wamp/www/betheme/wp-content/themes/betheme-child/css/main.css",
+		"/C/wamp/www/betheme/wp-content/themes/betheme-child/style.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/wpa/29-7-14/templates/reosurces.php",
+		"/C/wamp/www/betheme/wp-config.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/FLYNN/dev/header.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/FLYNN/dev/page.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/FLYNN/dev/sftp-config.json",
+		"/C/users/chrisj/appdata/local/temp/sublime-sftp-browse-1407814649/mapped/public_html/flynn/wp-content/themes/flynn/assets/css/custom.min.css",
+		"/C/wamp/www/isotope/dist/js/main.js",
+		"/C/wamp/www/isotope/dist/index.html",
+		"/C/wamp/www/isotope/dist/css/main.css",
+		"/C/wamp/www/isotope/dist/js/isotope.pkgd.min.js",
+		"/C/wamp/www/isotope/src/index.html",
+		"/C/wamp/www/isotope/html5/dist/index.html",
+		"/C/wamp/www/isotope/src/js/main.js",
+		"/C/wamp/www/isotope/src/css/main.css",
+		"/C/wamp/www/isotope/src/js/isotope.pkgd.min.js",
+		"/C/wamp/www/affiliate-banners/wei/banners-on-page.html",
+		"/C/wamp/www/affiliate-banners/wei/css/ad.scss",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/affiliate/affiliate-banners/wei/combined-banners.html",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/affiliate/affiliate-banners/wei/css/ad.scss",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/affiliate/affiliate-banners/wei/css/ad_AUG-11.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/TONIC CONNECTIVE/DEPPRO/2014/local-dev/apf.group/main.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/TONIC CONNECTIVE/DEPPRO/2014/local-dev/apf.group/index.html",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/TONIC CONNECTIVE/DEPPRO/2014/local-dev/vow.group/index.html",
+		"/C/Users/ChrisJ/Desktop/orig.html",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/TONIC CONNECTIVE/DEPPRO/2014/local-dev/sftp-config.json",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/TONIC CONNECTIVE/DEPPRO/2014/local-dev/vow.group/main.css",
+		"/C/Users/ChrisJ/Desktop/combo.html",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/AWME/local-dev/7-8-14/css/main.css",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/AAWEP/2014/sites/wei/footer.php",
+		"/C/Users/ChrisJ/Desktop/index.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/AWME/local-dev/7-8-14/css/_globals.scss",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/AWME/local-dev/7-8-14/home.php",
+		"/C/Users/ChrisJ/Dropbox/CHRIS_WORK/HIVE/AWME/local-dev/7-8-14/front-page.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			".",
+			"css",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"460",
+			"video-",
+			"Exc",
+			"exc",
+			"vide",
+			".css",
+			"<?php bloginfo('url' ); ?>/wp-content/themes/",
+			"plugins",
+			"<?php bloginfo('url' ); ?>/wp-content/",
+			"<a",
+			"</span></p>",
+			"<p><span>",
+			"wpmem_inc_sidebar",
+			"business",
+			"2463",
+			"wrap",
+			"sidebar",
+			"hashScript",
+			"h1",
+			"$",
+			"h3",
+			"-",
+			"ask-alison",
+			"overview",
+			"@me",
+			"”",
+			"\"\"",
+			"\"",
+			"“",
+			"hidden",
+			"discou",
+			"coupon",
+			"attr",
+			"remov",
+			"fonts/",
+			"{site_url}images/",
+			"	\n",
+			"{site_url}images/",
+			"../images/",
+			"fonts/",
+			"../images/",
+			"assets/",
+			"{site_ur}",
+			"{site_url}css/",
+			"{site_url}js",
+			"assets/",
+			"http://www.agilepeople.com.au/",
+			"@",
+			"<li>",
+			"li>",
+			"../images/",
+			"</a",
+			"</a>",
+			"CERTIFIED WEDDING",
+			"90",
+			"@",
+			"Special Offer for VOW ",
+			"Special Offer for VOW \nFinancial Members",
+			"australian P",
+			"VOW Financial Members",
+			"Special Offer for VOW",
+			"Special",
+			"special",
+			"Get Your Depreciation",
+			"contact",
+			"MOBILE VERS",
+			"toggleWidth",
+			"col-sm-3",
+			"http://www.sandstormevents.net/",
+			"$",
+			"video",
+			"form",
+			"files/fancybox/",
+			"files/ui/",
+			"http://quanticalabs.com/wp_themes/gymbase/wp-content/themes/gymbase/images/",
+			"http://quanticalabs.com/wp_themes/gymbase/wp-content/themes/gymbase/style/",
+			"http://quanticalabs.com/wp_themes/gymbase/wp-content/themes/gymbase/js/",
+			"http://quanticalabs.com/wp_themes/gymbase/wp-includes/js/jquery/",
+			"$",
+			"http://www.weddingandeventinstitute.com",
+			"@include",
+			"470",
+			"video",
+			"          \n",
+			"-15px",
+			".widget-1",
+			"extension=php_curl.dll",
+			"chat",
+			".chat",
+			"WP_DEB",
+			"formB",
+			"formButton",
+			"fillF",
+			"main",
+			"topA",
+			"topArea",
+			"main",
+			"formButton",
+			"Sidebar Setup",
+			"footer Menu",
+			"Header",
+			"header",
+			"Header",
+			"header",
+			"Header",
+			"header",
+			"640",
+			"540",
+			".dateFloat",
+			"padding-top: 10px;",
+			"72",
+			"body",
+			"setWidth",
+			"450",
+			"350",
+			"p",
+			"767",
+			"599",
+			"568",
+			"480",
+			"460",
+			"logo",
+			"<?php endif; ?>",
+			"nav-bg",
+			".dateFloat",
+			"toggl",
+			"768",
+			"767"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<?php bloginfo('url' ); ?>/aawep2014/wp-content/themes/",
+			"<?php bloginfo('url' ); ?>/aawep2014/wp-content/",
+			"{site_url}assets/fonts/",
+			"{site_url}assets/images/",
+			"{site_url}images/",
+			"http://www.thosedigitalthoughts.com/fonts/",
+			"{site_url}assets/images/",
+			"{site_url}",
+			"http://www.aawep.com.au/aawep2014/wp-content/themes/aawep/assets/images/",
+			"</a>{$impression_track}",
+			"Australian Property Finance Members",
+			"<?php bloginfo('url'); ?>/",
+			"jQuery",
+			"files/",
+			"jQuery",
+			"450",
+			"490",
+			"720",
+			"470",
+			"450",
+			"640",
+			"599",
+			"490",
+			"480",
+			"767",
+			"jQuery",
+			"",
+			"&nbsp;&nbsp|&nbsp;&nbsp",
+			"  |  ",
+			"14px",
+			"<a style=\"text-decoration:none;\"",
+			"style=\"color:#808080; text-decoration:none;",
+			"13px",
+			"../images/",
+			"#{$images}/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "assets/css/custom.css",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 144110,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 130.0
+	},
+	"project": "wpa.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"glob",
+				"css\\_globals.scss"
+			],
+			[
+				"fro",
+				"bootstrap\\front-page.php"
+			],
+			[
+				"ho",
+				"bootstrap\\home.php"
+			],
+			[
+				"fr",
+				"bootstrap\\front-page.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 313.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
